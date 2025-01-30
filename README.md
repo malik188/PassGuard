@@ -9,13 +9,17 @@ The menu structure on the PassGuard Website is as follows:
 4. Vault Menu
 
 Landing Page
+
 ![image](https://github.com/user-attachments/assets/d8c83b01-5ade-4ba0-ba6e-c6fab454c182)
 
 Sign-Up Page
+
 ![image](https://github.com/user-attachments/assets/05205df3-a580-49ba-bea1-06fead40b625)
 
 Sign-in Page
+
 ![image](https://github.com/user-attachments/assets/f7e5bedd-aa4a-4111-9c17-a003b7b8c5fd)
 
 Vault Menu
+
 ![image](https://github.com/user-attachments/assets/033208ae-df3a-4e43-89af-02adef4a5911)
