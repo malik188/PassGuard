@@ -1,3 +1,8 @@
+Kelompok 4 
+- Alvito Ikramu Walidain - 2006577624 
+- Muhamamd Haekal Al Ghifary - 2006577605 
+- Muhammad Malik Ardiansyah - 2006526996
+
 PassGuard is a web interface-based password manager designed to securely store and manage sensitive information which is login information & secure notes.
 
 PassGuard can generate new strong and long passwords. The password stored in the database will be encrypted and unlocked when entering a master password. With this system, we no longer need to remember all the passwords that have been created so that we can save time and thought resources needed to memorize many passwords and the security of our sensitive information will also increase.
